@@ -1,0 +1,2 @@
+# pvcloud
+show salar power
